@@ -1,5 +1,5 @@
 
-#George Koomson
+# George Koomson
 ## *(aka God George)*
 
 ![pic of god george](https://godgeorge.surge.sh/styles/imgs/Photo0153.jpg)
