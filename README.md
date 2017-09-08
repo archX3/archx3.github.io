@@ -22,4 +22,4 @@ YEAR | SCHOOL
 
 
 
-**Markdown** is dope, I just :+1: what you can do with it
+Github **Markdown** is dope, I just :+1: what you can do with it
