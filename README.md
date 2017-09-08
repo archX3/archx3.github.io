@@ -24,4 +24,4 @@ YEAR | SCHOOL
 
 Github **Markdown** is dope, I just :+1: what you can do with it
 
-You can visit [my site](https://godgeorge.surge.sh/) hosted on surge.io.
+You can visit [my site](https://godgeorge.surge.sh/) hosted on surge.sh.
